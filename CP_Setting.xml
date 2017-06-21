@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kapil_CP_Data>
+  <!-- Developed by: Kapil Saraswat-->
+  <!-- Version 2.0.1 Gui Edition-->
+  <paper>Understanging_and_Measuring_Circular_Polarization</paper>
+  <nickname>CP_Radiation_Pattern</nickname>
+  <!-- These data are same as given in measurement software-->
+  <Angle_Step_Size>5</Angle_Step_Size>
+  <!-- The Plane of observation, XZ or YZ-->
+  <Plot_Plane>XZ</Plot_Plane>
+  <F_start>500</F_start>
+  <F_stop>20000</F_stop>
+  <Sweep_point>1601</Sweep_point>
+  <!-- Single Frequency point in MHz-->
+  <frequency_point_used>5200</frequency_point_used>
+  <!-- Frequency range in MHz-->
+  <F_st>500</F_st>
+  <F_stp>20000</F_stp>
+  <F_gap>48.75</F_gap>
+  <!-- Setting for plotting-->
+  <X_lim_min>500</X_lim_min>
+  <X_lim_max>20000</X_lim_max>
+  <Y_lim_min>0</Y_lim_min>
+  <Y_lim_max>10</Y_lim_max>
+  <!-- Test variable-->
+  <Magic_number>70</Magic_number>
+  <Save_data>yes</Save_data>
+  <Save_image>yes</Save_image>
+  <folder_path>C:\Users\KapilSaraswat\Desktop\cp antenna\Antenna_1_LHCP</folder_path>
+</Kapil_CP_Data>
